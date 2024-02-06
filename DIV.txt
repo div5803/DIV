@@ -1,0 +1,10 @@
+welcome home son
+#include<stdio.h>
+main()
+{
+add()
+sub();
+div();
+mul();
+}
+
